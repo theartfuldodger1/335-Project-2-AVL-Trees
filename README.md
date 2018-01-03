@@ -1,7 +1,7 @@
 # CSCI-335-Project2-Trees
 AVL implementation
 
-This program is tasked to read the input file, parse its lines, construct a Tree object for each line
+This program is tasked to read the input file (CSV's), parse its lines, construct a Tree object for each line
 and make the calls to the Tree_Collection class to insert tree objects into the collection. As each line of data
 is read, its 41 fields are separated and the proper subset of nine of them are used to construct the
 Tree object. Tree_Collection, uses the "spc_common/tree_id" pair as a unique key for inserting
