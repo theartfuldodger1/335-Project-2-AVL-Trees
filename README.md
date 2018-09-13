@@ -12,3 +12,5 @@ invalidate that line of data. the user is asked to provide a species name/tree t
 or as many as three. the users input is processed and the species that match or have individual consecutive
 words that match are counted and that information is displayed for the user. Data comes from NYC Open Data
 and can be visualized @ www.cloudred.com/labprojects/nyctrees
+
+compile with C++11, file 'test' must be in same folder as exe
